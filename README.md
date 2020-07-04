@@ -1,4 +1,8 @@
 # XH-B310_Backpack
+Wouldn't it have been nice if the makers of this inexpensive and high range (800C!) meter decided to dedicate an STM8 pin to providing us serial temperature data? 
+Well, they didn't, because they don't love us. 
+
+So we'll have to do the next best thing...
 Read the analog sensors on these cheap TC displays to (more or less) pull the temperature data into your arduino. 
 
 This sketch is designed to run on an arduino nano. 
